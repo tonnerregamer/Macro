@@ -1,1 +1,0 @@
-const int VERSION_ACTUELLE = 0.01;
